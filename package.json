@@ -1,0 +1,21 @@
+{
+  "name": "jcportfolio",
+  "version": "1.0.0",
+  "description": "Personal web development portfolio",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-sass": "^3.1.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.3",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Jon Charter",
+  "license": "ISC"
+}
